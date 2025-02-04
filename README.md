@@ -18,3 +18,25 @@ Este proyecto consiste en el desarrollo de un sistema que consume el API de Tecn
 - **Base de Datos:** Oracle
 - **API de Mapas:** Google Maps
 - **Autenticación:** Token de Tecnocontrol
+
+## Instalación y Ejecución
+
+Este proyecto es un **monorepo**, por lo que para instalarlo correctamente, sigue estos pasos:
+
+1. **Clonar el repositorio:**
+
+   ```sh
+   git clone <https://github.com/JavierSalazar24/prueba-tecnica.git>
+   cd <prueba-tecnica>
+   ```
+
+2. **Instalar dependencias:**
+
+   ```sh
+   npm install
+   ```
+
+3. **Ejecutar el proyecto (Frontend y Backend):**
+   ```sh
+   npm run dev
+   ```
